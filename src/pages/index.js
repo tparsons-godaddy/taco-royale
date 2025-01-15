@@ -6,13 +6,15 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import sidebars from '../../sidebars';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+  console.log('QQQ ', siteConfig.tagline)
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
+        <Heading as="h1" className="hero__title text--center">
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
@@ -30,9 +32,9 @@ export default function Home() {
       title={`Hi there!`}
       description="Tims brag doc">
       <HomepageHeader />
-      {/* <main> */}
-        {/* <HomepageFeatures /> */}
-      {/* </main> */}
+      <main>
+        <HomepageFeatures />
+      </main>
     </Layout>
   );
 }

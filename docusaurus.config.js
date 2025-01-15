@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Tims Brag Doc',
+  title: 'Tims Taco Royale Doc',
   tagline: 'Brag Document in which I list my accomplishments throughout the year in a daily based list. Motivation is to keep track of my daily work on my career in which I can later reflect upon it. Also, avoiding the feeling of confusion when looking back on my previous accomplishments.',
   favicon: 'img/favicon.ico',
 
@@ -82,23 +82,23 @@ const config = {
               label: 'Intro',
             },
             {
-            to: 'docs/helpful-docs/npm',
-            label: 'Docs',
+            to: 'docs/sidebar/helpful-docs/npm',
+            label: 'Helpful Docs',
             sidebar: 'docsSidebar',
           },
           {
-            to: 'docs/learning/Learnings', 
+            to: 'docs/sidebar/learning/TIL',
             label: 'Learning',
             sidebar: 'learningSidebar',
           },
+          // {
+          //   to: 'docs/me/Goals/Company',
+          //   label: 'Me',
+          //   sidebar: 'meSidebar',
+          // },
           {
-            to: 'docs/me/Goals/Company',
-            label: 'Me',
-            sidebar: 'meSidebar',
-          },
-          {
-            to: 'docs/projects',
-            label: 'Projects',
+            to: 'docs/sidebar/Taco-Royale/Collaboration',
+            label: 'Taco Royale',
             sidebar: 'projectsSidebar',
           },
           

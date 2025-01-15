@@ -1,13 +1,14 @@
 ## To Do
+- [ ] Photo Search end of life ticket - Shawn's messages
 - [ ] Look into photoshoots asset api endoints
-- [ ] Dify Shared Hand off doc
 - [ ] Need to check Photoshoot alert from Friday - reran and still created alert. Account showing in vNext
 
 ## Questions
-- [ ] How can we set up a server to make api calls to spaq quicker?
-
+- [ ] How can we set up a server to make api calls to spaq quicker? AWS?
 
 ## Completed
+- [x] [TACOROYALE-1293](https://godaddy-corp.atlassian.net/browse/TACOROYALE-1293) - Dify Request Hand of completed
+- [x] Dify Header Hand off doc
 - [x] Create ticket for noise in alerts 'Failed to create ad creative'
 - [x] Speak with team about Photoshoots api https://godaddy.slack.com/archives/C015TRU5NEL/p1736380545133919 - Speak to David Turet as he's taking it over. He want us to look into it.
 - [x] Message Jacob Page about auth-client upgrade - In conversation with him - ran `npm audit fix`
