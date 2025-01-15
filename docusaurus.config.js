@@ -97,7 +97,7 @@ const config = {
           //   sidebar: 'meSidebar',
           // },
           {
-            to: 'docs/sidebar/Taco-Royale/Collaboration',
+            to: 'docs/sidebar/Taco-Royale/Documentation',
             label: 'Taco Royale',
             sidebar: 'projectsSidebar',
           },
