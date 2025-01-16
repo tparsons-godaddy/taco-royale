@@ -13,3 +13,6 @@
 - [TACOROYALE-1309 - [WOS] Auto-renew flow (ITC indicator) hand-off doc'n](https://godaddy-corp.atlassian.net/browse/TACOROYALE-1309) - Completed and moved to Ready to Review
 - [TACOROYALE-1291 - [dify-request] Create hand-off documentation](https://godaddy-corp.atlassian.net/browse/TACOROYALE-1291) - Reviewed for Anthony and moved to Done
 - Looking into SPAQ dip on DIFY Shared
+- [MSP Photoshoot Jira Ticket Not Created](https://godaddy-corp.atlassian.net/browse/WAFFLE-3170) - Worked with Anthony to fix
+
+

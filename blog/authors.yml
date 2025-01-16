@@ -21,3 +21,12 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+tparsons:
+  name: Tim Parsons
+  title: Software Engineer @ GoDaddy
+  url: https://github.com/tparsons-godaddy
+  image_url: https://github.com/timmparsons.png
+  page: true
+  socials:
+    github: tparsons-godaddy

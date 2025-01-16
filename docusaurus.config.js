@@ -100,8 +100,11 @@ const config = {
             to: 'docs/sidebar/Taco-Royale/Documentation',
             label: 'Taco Royale',
             sidebar: 'projectsSidebar',
-          },
-          
+          } ,
+          {
+            to: 'blog',
+            label: 'Blog',
+          },         
         ],
       },
       footer: {
