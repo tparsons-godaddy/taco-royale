@@ -4,10 +4,10 @@ title: Welcome
 authors: [tparsons]
 tags: [facebook, hello, docusaurus]
 ---
-<!-- truncate -->
 Hey friends!
 
 I hope you’re having a good week! This is post #1. Let’s see how this goes. Really this is just a way for me to explore Astro.js and share some stuff with the team. I hope you find something interesting.
+<!-- truncate -->
 
 ### Web links of the week
 

@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Structured Content',
+    title: 'Helpful Docs',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Organize your documentation in a clear and structured way to ensure users can easily find the information they need.
+        Some documents to help me access things quicker
       </>
     ),
   },
   {
-    title: 'Project Overview',
+    title: 'Learning',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Keep your documentation organized by grouping related information into logical sections, making it easy to manage and navigate.
+        Stuff to keep me in the know
       </>
     ),
   },
   {
-    title: 'Customizable Layout',
+    title: 'Blog',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Tailor the layout and design of your documentation to match your brand or project, ensuring a consistent experience across pages.
+        A place to share my thoughts
       </>
     ),
   },

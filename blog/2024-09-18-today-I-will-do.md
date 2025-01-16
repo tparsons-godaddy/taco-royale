@@ -4,10 +4,10 @@ slug: today-I-will-do-what-others-wont
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 I hope you're having a good week. It's great to have some new members join us. The work they've been doing on removing thunder has been exceptional and the handoff was seamless - great job guys.
+<!-- truncate -->
 
 ---
 

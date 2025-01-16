@@ -4,10 +4,10 @@ title: Everything you’ve ever wanted is sitting on the other side of fear. - G
 authors: [tparsons]
 tags: []
 ---
-<!-- truncate -->
 Hey team!
 
 The week is going well. Keep it up! We have a day off next Friday so make the most of it.
+<!-- truncate -->
 
 ---
 

@@ -10,10 +10,11 @@ import sidebars from '../../sidebars';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
-  console.log('QQQ ', siteConfig.tagline)
+  
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
+      <img src="img/Logo.jpg" alt="Taco Royale Doc" style={{height: 70}}/>
         <Heading as="h1" className="hero__title text--center">
           {siteConfig.title}
         </Heading>
@@ -30,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hi there!`}
-      description="Tims brag doc">
+      description="Tims Taco Royale Doc">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

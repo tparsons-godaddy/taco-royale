@@ -11,8 +11,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Tims Taco Royale Doc',
-  tagline: 'Brag Document in which I list my accomplishments throughout the year in a daily based list. Motivation is to keep track of my daily work on my career in which I can later reflect upon it. Also, avoiding the feeling of confusion when looking back on my previous accomplishments.',
-  favicon: 'img/favicon.ico',
+  tagline: 'Documentation for Taco Royale and myself',
+  favicon: 'img/Logo.jpg',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -76,6 +76,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
+        logo: {
+          alt: 'Taco Royale',
+          src: 'img/Logo.jpg',
+        },
         items: [
           {
               to: 'docs/intro',
@@ -85,6 +89,7 @@ const config = {
             to: 'docs/sidebar/helpful-docs/npm',
             label: 'Helpful Docs',
             sidebar: 'docsSidebar',
+            collapsed: true,
           },
           {
             to: 'docs/sidebar/learning/TIL',

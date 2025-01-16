@@ -4,10 +4,10 @@ slug: article-7-do-great-things
 authors: tparsons
 date: 'Aug 22, 2024'
 ---
-
 Hey team!
 
 I hope everyone is having a good week. We just got back from Colorado - the scenery was unreal but the wifi left a lot to be desired. We went fishing, down 1000ft into an old mine, looking around some caves and checked out some old Indian dwellings. It was amazing and made me realize how important having time to explore new places really is. If you get a chance, go and do something soon.
+<!-- truncate -->
 
 ---
 

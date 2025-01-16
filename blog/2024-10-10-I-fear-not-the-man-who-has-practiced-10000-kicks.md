@@ -4,9 +4,10 @@ slug: I-fear-not-the-man-who-has-practiced-10000-kicks
 authors: tparsons
 tags: []
 ---
-
 Hey team!
+
 Great work on the Google ads release. We can see the finish line of phase 1. Hopefully, we can get it out to vSplash next week and see how it all goes.
+<!-- truncate -->
 
 ---
 

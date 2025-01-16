@@ -4,10 +4,10 @@ slug: the-only-way-of-discovering-the-limits
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 I've been quiet for a few weeks with the holidays so I will try and get back into it. I hope everyone had a good Thanksgiving! Now it's time to get ready for Christmas!
+<!-- truncate -->
 
 ---
 

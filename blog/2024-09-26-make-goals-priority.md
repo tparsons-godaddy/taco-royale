@@ -4,12 +4,12 @@ slug: make-goals-priority
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 Another new sprint - this time back to the original crew.
 Exciting to see all of the Google Ads work come together. Let's push on and get our customer's websites out to everyone.
 I don't know about you but the call in the Q3 All Hands meeting with one of our customers was really useful. Hopefully, we will see more of those in the future.
+<!-- truncate -->
 
 ---
 

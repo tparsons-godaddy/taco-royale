@@ -4,10 +4,10 @@ title: What you do today can improve all your tomorrows - Ralph Marston
 authors: [tparsons]
 tags: []
 ---
-<!-- truncate -->
 Hey team!
 
 I just wanted to take a moment to give a huge shoutout to everyone for the incredible work we’ve been doing. We’ve tackled some tough problems, launched some fantastic features, and really nailed it with our recent projects. It’s amazing to see how our combined efforts have paid off and pushed us forward. Your hard work and creativity are what make all the difference, so let’s keep that momentum going and continue to make great things happen!
+<!-- truncate -->
 
 ---
 

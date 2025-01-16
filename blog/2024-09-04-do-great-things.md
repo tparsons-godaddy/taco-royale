@@ -4,10 +4,10 @@ slug: article-8-do-great-things
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 This week has been a tough one. Working on a workflow in AWS, I corrupted all of the test data we had in one DEV account - the only account that everyone was using for testing. A lot of hours have been spent trying to revert the problems to no avail. Maybe there's something there that I need to focus on. 
+<!-- truncate -->
 
 ---
 

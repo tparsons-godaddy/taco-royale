@@ -4,10 +4,10 @@ slug: its-supposed-to-be-hard
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 Halloween is over. Already I'm seeing people put up their Christmas decorations. We always put them up after Thanksgiving, but maybe we're going it wrong.
+<!-- truncate -->
 
 ---
 

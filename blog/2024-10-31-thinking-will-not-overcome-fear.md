@@ -4,10 +4,10 @@ slug: thinking-will-not-overcome-fear
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 Happy Halloween! I hope you all have a good day and if you have kids, enjoy trick or treating. Some of the decorations this year have been amazing. the 15ft skeletons are everywhere.
+<!-- truncate -->
 
 ---
 

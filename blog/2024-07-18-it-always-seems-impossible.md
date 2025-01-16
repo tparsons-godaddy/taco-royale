@@ -4,10 +4,10 @@ title: It always seems impossible until it's done. - Nelson Mandela
 authors: tparsons
 tags: [hello, docusaurus]
 ---
-<!-- truncate -->
 Hey team!
 
 Hope you're all doing awesome! Welcome to the latest edition of our team newsletter, where we dish out the freshest updates and coolest happenings from our software engineering world. Grab a coffee, kick back, and let's dive into what's been cooking!
+<!-- truncate -->
 
 ## Team News/Useful Links
 

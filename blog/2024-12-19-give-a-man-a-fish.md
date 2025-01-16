@@ -4,10 +4,10 @@ slug: give-a-man-a-fish
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 The holidays are nearly here. I hope you're all ready and hopefully you get to spend time with friends and family.
+<!-- truncate -->
 
 ---
 

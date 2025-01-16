@@ -4,10 +4,10 @@ slug: keep-going-and-fighting
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 Happy New Year! I hope you all had a good Christmas and New Year. We were all still recovering from sickness so it was very low key.
+<!-- truncate -->
 
 Now the new year is here, we have some changes coming to our team. Some members are moving to other teams, which is sad, but also an exciting time to see what we can accomplish in 2025.
 

@@ -4,10 +4,10 @@ slug: start-is-what-stops-most-people
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 Exciting week ahead working with the tiger team. I'm looking forward to seeing some collaboration and knowledge share with these guys. Let's go!!!
+<!-- truncate -->
 
 ---
 

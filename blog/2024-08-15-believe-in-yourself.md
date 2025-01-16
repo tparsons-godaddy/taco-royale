@@ -4,10 +4,10 @@ title: Believe in yourself! Have faith in your abilities! Without a humble but r
 authors: [tparsons]
 tags: []
 ---
-<!-- truncate -->
 Hey team!
 
 I hope everyone is having a good week and enjoyed Wellness Day. I know I did. A few days in California was nice. The journey back wasn’t - breaking down in the middle of the desert is something you never want to happen to you! Anyway, we got it sorted and got back safely.
+<!-- truncate -->
 
 ---
 

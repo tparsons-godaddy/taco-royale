@@ -4,10 +4,10 @@ slug: article-14-every-great-dream-begins-with-a-dreamer
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 I hope you're all doing well. We've all been working hard recently, don't forget to take some time for yourself, go for a walk and eat good food. Life is for enjoying!
+<!-- truncate -->
 
 ---
 

@@ -4,10 +4,11 @@ slug: Happiness-is-not-something-ready-made
 authors: tparsons
 tags: []
 ---
-
 Hey team!
+
 I hope you've all been having a good week. The mini-hackathon has been a cool experience and I don't know about you but I enjoyed having a break from the normal grind and working on something different. A lot of pairing and learning has been super cool.
 What are your thoughts on it? I'd love to know.
+<!-- truncate -->
 
 ---
 

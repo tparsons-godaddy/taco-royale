@@ -4,10 +4,10 @@ slug: all-who-accomplised-great-things
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 I hope you're all doing well. Halloween is coming up - hopefully, you've all got your pumpkins ready to be carved. We bought two a few weeks ago and one of them has gone bad already. We've never had that happen before.
+<!-- truncate -->
 
 ---
 

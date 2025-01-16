@@ -4,10 +4,10 @@ slug: make-your-own-luck
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 Happy Holidays! I hope you're all having a good day, hopefully with friends and family. We've all been sick in my household so Christmas was pretty sad
+<!-- truncate -->
 
 ---
 

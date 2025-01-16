@@ -4,10 +4,10 @@ title: Just one small positive thought in the morning can change your whole day
 authors: [tparsons]
 tags: []
 ---
-<!-- truncate -->
 Hey friends!
 
 I hope you’re week is going well and managed to get some rest on July 4th. It was pretty quiet on my end. We don’t really want to spend hours waiting for fireworks when it’s 110 degrees outside.
+<!-- truncate -->
 
 ## Web links of the week
 

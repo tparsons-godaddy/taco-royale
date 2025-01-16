@@ -4,10 +4,10 @@ slug: develop-success-from-failures
 authors: tparsons
 tags: []
 ---
-
 Hey team!
 
 It's that time of the year again - self evaluations. This is definitely the worst part, I have no idea how to write about myself, I don't know about you.
+<!-- truncate -->
 
 Unfortauntely, we have lost a feew of our team members as we move into the new year. The other teams have gained some truly amazing people, though, and I look forward to hearing of their successes.
 
