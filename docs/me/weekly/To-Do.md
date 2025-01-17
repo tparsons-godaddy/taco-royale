@@ -1,5 +1,6 @@
 ## In Progress
 - [x] Photo Search end of life ticket - Shawn's messages
+- [x] [Read through Openstack Docs](https://docs.openstack.int.gd3p.tools/)
 
 ## To Do
 - [ ] Keep checking Blocked due diligence tickets to see where they're at

@@ -22,3 +22,8 @@
 - [TACOROYALE-1352 - MSP Onboarding Jira Tickets Not Created, Shopper: 2236661](https://godaddy-corp.atlassian.net/browse/TACOROYALE-1352) - Looked into it with Anthony and fixed
 - [TACOROYALE-1299 - [Photo Search App] Let’s EOL this](https://godaddy-corp.atlassian.net/browse/TACOROYALE-1299) - Started looking into this. Reached out to OpenStack team
 
+
+### Weekly Accomplishments
+- Hand off docs
+- Fixing a couple of P0 bugs
+- Blog update

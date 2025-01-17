@@ -102,7 +102,7 @@ const config = {
           //   sidebar: 'meSidebar',
           // },
           {
-            to: 'docs/sidebar/Taco-Royale/Documentation',
+            to: 'docs/sidebar/Taco Royale/Documentation',
             label: 'Taco Royale',
             sidebar: 'projectsSidebar',
           } ,

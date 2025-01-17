@@ -1,8 +1,6 @@
 ## Projects
-
-*For each project share: what your contributions were and what the impact of the project had/has on the company. Don’t forget to explain what the results of your work were. As in: a couple of months after a project launched, come back to this part of the document and share what*
-
-## Taco Royale Blog
-- [Post 22](https://tacoroyaleblog.vercel.app/blog/article-22-keep-going-and-fighting)
-- [Post 23](https://tacoroyaleblog.vercel.app/blog/article-23-develop-success-from-failures)
+- [Find dependency versions and navigate jFrog](https://www.loom.com/share/afd715a15f964f6d8b262f0d20a8a247?sid=e37da545-dc71-4f3f-a6ee-28fe19b27a4d)
+- [Find duplicates in DifySocialAdSchedule](../../find-duplicates.md)
+- [Onboarding creation Jira ticket failing](https://www.loom.com/share/0d571fb286a048e98ec55c6110b41784?sid=a71d01d3-67fe-433a-85c1-0da3ec2320d6)
+- [Taco Royale Blog](../../../blog/)
 
