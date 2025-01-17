@@ -16,4 +16,6 @@
 - [MSP Photoshoot Jira Ticket Not Created](https://godaddy-corp.atlassian.net/browse/WAFFLE-3170) - Worked with Anthony to fix
 
 ### <ins>Thur Jan 16</ins>
-- EOL Photo search
+- [TACOROYALE-1299 - [Photo Search App] Let’s EOL this](https://godaddy-corp.atlassian.net/browse/TACOROYALE-1299) - Started looking into this. Reached out to OpenStack team
+
+### <ins>Fri Jan 17</ins>
