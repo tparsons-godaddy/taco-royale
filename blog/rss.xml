@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Tims Taco Royale Doc Blog</title>
+        <link>https://github.com/taco-royale/blog</link>
+        <description>Tims Taco Royale Doc Blog</description>
+        <lastBuildDate>Wed, 08 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Develop success from failures. Discouragement and failure are two of the surest stepping stones to success. — Dale Carnegie]]></title>
+            <link>https://github.com/taco-royale/blog/develop-success-from-failures</link>
+            <guid>https://github.com/taco-royale/blog/develop-success-from-failures</guid>
+            <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>It's that time of the year again - self evaluations. This is definitely the worst part, I have no idea how to write about myself, I don't know about you.</p>
+<p>Unfortauntely, we have lost a feew of our team members as we move into the new year. The other teams have gained some truly amazing people, though, and I look forward to hearing of their successes.</p>
+<p>Starting this week, I am adding a new section with the most interesting engineering blog post I have found. There are so many around that get lost in the vast realms of the internet that I will share them and make them easier to find.</p>
+<hr>
+<p><strong>Web Articles of the Week</strong></p>
+<ul>
+<li><a href="https://tigerabrodi.blog/how-reacts-render-effects-and-refs-work-under-the-hood?utm_source=tldrwebdev" target="_blank" rel="noopener noreferrer">How React's Render, Effects and Refs work under the hood</a></li>
+<li><a href="https://operating-system-in-1000-lines.vercel.app/en/" target="_blank" rel="noopener noreferrer">Operating System in 1,000 Lines</a></li>
+</ul>
+<p><strong>Interesting things from around the internet</strong></p>
+<ul>
+<li><a href="https://mashable.com/article/nasa-parker-solar-probe-sun-breaks-record-speed-closest-approach" target="_blank" rel="noopener noreferrer">Microsoft's outrageous Google website imitation branded a 'new low'</a></li>
+<li><a href="https://www.bbc.com/news/articles/cj0r0dvgpy0o" target="_blank" rel="noopener noreferrer">Man told he can't recover £598m of Bitcoin from tip</a></li>
+</ul>
+<p><strong>Engineering blog post of the week</strong></p>
+<ul>
+<li><a href="https://remix.run/blog/shop-case-study" target="_blank" rel="noopener noreferrer">Case Study: Building Shop with Remix</a></li>
+</ul>
+<hr>
+<p>Have a great week!</p>
+<hr>
+<p>Issue #23</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[You just gotta keep going and fighting for everything, and one day you’ll get to where you want - Naomi Osaka]]></title>
+            <link>https://github.com/taco-royale/blog/keep-going-and-fighting</link>
+            <guid>https://github.com/taco-royale/blog/keep-going-and-fighting</guid>
+            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>Happy New Year! I hope you all had a good Christmas and New Year. We were all still recovering from sickness so it was very low key.</p>
+<p>Now the new year is here, we have some changes coming to our team. Some members are moving to other teams, which is sad, but also an exciting time to see what we can accomplish in 2025.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/keep-going-and-fighting#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://www.lydiahallie.com/blog/promise-execution" target="_blank" rel="noopener noreferrer">JavaScript Visualized: Promise Execution</a></li>
+<li><a href="https://github.com/BryanLomerio/conventional-commit-cheatsheet" target="_blank" rel="noopener noreferrer">Master Git Commit Messages with This Simple Conventional Commit Cheat Sheet</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/keep-going-and-fighting#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://www.ocregister.com/2024/12/31/worlds-500-richest-people-surpass-10-trillion-in-wealth-in-2024/" target="_blank" rel="noopener noreferrer">World’s 500 richest people surpass $10 trillion in wealth in 2024</a></li>
+<li><a href="https://www.sfgate.com/sports/article/santa-cruz-surfer-rode-potential-world-record-wave-20008890.php" target="_blank" rel="noopener noreferrer">A Santa Cruz surfer rode potential world-record 108-foot-tall Mavericks wave</a></li>
+</ul>
+<hr>
+<p>Have a great week!</p>
+<hr>
+<p>Issue #22</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[When it comes to luck, you make your own - Bruce Springsteen]]></title>
+            <link>https://github.com/taco-royale/blog/make-your-own-luck</link>
+            <guid>https://github.com/taco-royale/blog/make-your-own-luck</guid>
+            <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>Happy Holidays! I hope you're all having a good day, hopefully with friends and family. We've all been sick in my household so Christmas was pretty sad</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/make-your-own-luck#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://netflixtechblog.com/title-launch-observability-at-netflix-scale-c88c586629eb" target="_blank" rel="noopener noreferrer">Title Launch Observability at Netflix Scale</a></li>
+<li><a href="https://github.com/BryanLomerio/conventional-commit-cheatsheet" target="_blank" rel="noopener noreferrer">Master Git Commit Messages with This Simple Conventional Commit Cheat Sheet</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/make-your-own-luck#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://mashable.com/article/nasa-parker-solar-probe-sun-breaks-record-speed-closest-approach" target="_blank" rel="noopener noreferrer">NASA spacecraft just plunged into the sun and broke stunning records</a></li>
+<li><a href="https://www.wsj.com/tech/ai/china-ai-advances-us-chips-7838fd20" target="_blank" rel="noopener noreferrer">Don’t Look Now, but China’s AI Is Catching Up Fast</a></li>
+</ul>
+<hr>
+<p>Have a great week!</p>
+<hr>
+<p>Issue #21</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Give a man a fish, and you feed him for a day; teach a man to fish and you feed him for a lifetime - Lao Tzu]]></title>
+            <link>https://github.com/taco-royale/blog/give-a-man-a-fish</link>
+            <guid>https://github.com/taco-royale/blog/give-a-man-a-fish</guid>
+            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>The holidays are nearly here. I hope you're all ready and hopefully you get to spend time with friends and family.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/give-a-man-a-fish#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8" target="_blank" rel="noopener noreferrer">Enhancing The New York Times Web Performance with React 18</a></li>
+<li><a href="https://www.docker.com/blog/how-to-dockerize-react-app/" target="_blank" rel="noopener noreferrer">How to Dockerize a React App: A Step-by-Step Guide for Developers</a></li>
+<li><a href="https://www.youtube.com/watch?v=KsHfbqR4rag" target="_blank" rel="noopener noreferrer">Create Apple-Style 3D Scroll Animations w/ Next.js 15 + React Fiber + GSAP</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/give-a-man-a-fish#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://arstechnica.com/space/2024/12/china-orbits-first-guowang-internet-satellites-with-thousands-more-to-come/" target="_blank" rel="noopener noreferrer">China orbits first Guowang Internet satellites, with thousands more to come</a></li>
+<li><a href="https://increase.com/articles/iso-8583-the-language-of-credit-cards" target="_blank" rel="noopener noreferrer">ISO 8583: The language of credit cards</a></li>
+<li><a href="https://cyberinsider.com/github-plagued-by-4-5-million-fake-stars-problem-misleading-users" target="_blank" rel="noopener noreferrer">GitHub Plagued by 4.5 Million Fake Stars Problem Misleading Users</a></li>
+</ul>
+<hr>
+<p>Have a great week!</p>
+<hr>
+<p>Issue #20</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“The will to win, the desire to succeed, the urge to reach your full potential… these are the keys that will unlock the door to personal excellence.” - Confucius]]></title>
+            <link>https://github.com/taco-royale/blog/the-will-to-win</link>
+            <guid>https://github.com/taco-royale/blog/the-will-to-win</guid>
+            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>I've been quiet for a few weeks with the holidays so I will try and get back into it. I hope everyone had a good Thanksgiving! Now it's time to get ready for Christmas!</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/the-will-to-win#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://www.seangoedecke.com/how-to-ship/" target="_blank" rel="noopener noreferrer">How I ship projects at big tech companies</a></li>
+<li><a href="https://www.learningtypescript.com/projects" target="_blank" rel="noopener noreferrer">Learning TypeScript</a></li>
+<li><a href="https://uxdesign.cc/the-next-era-of-design-is-intent-driven-f789ee521482" target="_blank" rel="noopener noreferrer">The next era of design is intent-driven</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/the-will-to-win#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://designyoutrust.com/2024/11/fantastic-detailed-lego-creations-by-gerardo-pontierr/" target="_blank" rel="noopener noreferrer">Fantastic Detailed LEGO Creations by Gerardo Pontiérr</a></li>
+<li><a href="https://fortune.com/2024/12/11/google-willow-chip-quantum-computing/" target="_blank" rel="noopener noreferrer">Google’s breakthrough Willow chip means we’ll get useful quantum computers sooner than some people thought</a></li>
+<li><a href="https://restofworld.org/2024/how-whatsapp-for-business-changed-the-world/" target="_blank" rel="noopener noreferrer">How WhatsApp ate the world</a></li>
+</ul>
+<hr>
+<p>Have a great week!</p>
+<hr>
+<p>Issue #19</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[“The only way of discovering the limits of the possible is to venture a little way past them into the impossible.” - Arthur C. Clarke]]></title>
+            <link>https://github.com/taco-royale/blog/the-only-way-of-discovering-the-limits</link>
+            <guid>https://github.com/taco-royale/blog/the-only-way-of-discovering-the-limits</guid>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>I've been quiet for a few weeks with the holidays so I will try and get back into it. I hope everyone had a good Thanksgiving! Now it's time to get ready for Christmas!</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/the-only-way-of-discovering-the-limits#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://simonw.substack.com/p/first-impressions-of-the-new-amazon" target="_blank" rel="noopener noreferrer">First impressions of the new Amazon Nova LLMs</a></li>
+<li><a href="https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html" target="_blank" rel="noopener noreferrer">Netscape And Sun Announce Javascript - The Open Cross Platform Object Scripting Language For Enterprise Networks And TheInternet</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/the-only-way-of-discovering-the-limits#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://oldcarsdata.com/" target="_blank" rel="noopener noreferrer">Old Cars Data</a></li>
+<li><a href="https://www.gov.uk/government/news/diamonds-are-forever-world-first-carbon-14-diamond-battery-made" target="_blank" rel="noopener noreferrer">Diamonds are forever? World-first carbon-14 diamond battery made</a></li>
+<li><a href="https://www.unsw.edu.au/newsroom/news/2024/12/proton-batteries-an-innovative-option-for-the-future-of-energy-storage" target="_blank" rel="noopener noreferrer">Proton batteries: an innovative option for the future of energy storage</a></li>
+</ul>
+<hr>
+<p>Have a great week!</p>
+<hr>
+<p>Issue #18</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[It’s supposed to be hard. If it wasn’t hard everyone would be doing it. The hard is what makes it great - A League of Their Own]]></title>
+            <link>https://github.com/taco-royale/blog/its-supposed-to-be-hard</link>
+            <guid>https://github.com/taco-royale/blog/its-supposed-to-be-hard</guid>
+            <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>Halloween is over. Already I'm seeing people put up their Christmas decorations. We always put them up after Thanksgiving, but maybe we're going it wrong.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/its-supposed-to-be-hard#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://newsletter.pragmaticengineer.com/p/how-to-become-a-more-effective-engineer" target="_blank" rel="noopener noreferrer">How to become a more effective engineer</a></li>
+<li><a href="https://react.gg/visualized" target="_blank" rel="noopener noreferrer">React Visualized</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/its-supposed-to-be-hard#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://www.sciencealert.com/gut-inflammation-link-to-alzheimers-disease-confirmed-yet-again" target="_blank" rel="noopener noreferrer">Gut Inflammation Link to Alzheimer's Disease Confirmed Yet Again</a></li>
+<li><a href="https://interestingengineering.com/science/worlds-first-cloned-ferret-gives-birth" target="_blank" rel="noopener noreferrer">World’s 1st cloned ferret gives birth to healthy kits in a conservation milestone</a></li>
+</ul>
+<hr>
+<p>Have a great week!</p>
+<hr>
+<p>Issue #17</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Thinking will not overcome fear, but action will - W. Clement Stone]]></title>
+            <link>https://github.com/taco-royale/blog/thinking-will-not-overcome-fear</link>
+            <guid>https://github.com/taco-royale/blog/thinking-will-not-overcome-fear</guid>
+            <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>Happy Halloween! I hope you all have a good day and if you have kids, enjoy trick or treating. Some of the decorations this year have been amazing. the 15ft skeletons are everywhere.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/thinking-will-not-overcome-fear#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://github.com/bayandin/awesome-awesomeness" target="_blank" rel="noopener noreferrer">A GitHub repo that curates all the awesome repos</a></li>
+<li><a href="https://medium.com/airbnb-engineering/automation-platform-v2-improving-conversational-ai-at-airbnb-d86c9386e0cb" target="_blank" rel="noopener noreferrer">Automation Platform v2: Improving Conversational AI at Airbnb</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/thinking-will-not-overcome-fear#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://www.sciencealert.com/jupiter-has-no-surface-heres-how-thats-actually-possible" target="_blank" rel="noopener noreferrer">Jupiter Has No Surface. Here's How That's Actually Possible.</a></li>
+<li><a href="https://www.sciencealert.com/scientists-found-a-yellow-brick-road-at-the-bottom-of-the-pacific-ocean" target="_blank" rel="noopener noreferrer">Scientists Found a 'Yellow Brick Road' at The Bottom of The Pacific Ocean</a></li>
+</ul>
+<hr>
+<p>Have a great week!</p>
+<hr>
+<p>Issue #16</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[All who have accomplished great things have had a great aim, have fixed their gaze on a goal which was high, one which sometimes seemed impossible - Orison Swett Marden]]></title>
+            <link>https://github.com/taco-royale/blog/all-who-accomplised-great-things</link>
+            <guid>https://github.com/taco-royale/blog/all-who-accomplised-great-things</guid>
+            <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>I hope you're all doing well. Halloween is coming up - hopefully, you've all got your pumpkins ready to be carved. We bought two a few weeks ago and one of them has gone bad already. We've never had that happen before.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/all-who-accomplised-great-things#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://arstechnica.com/ai/2024/10/anthropic-publicly-releases-ai-tool-that-can-take-over-the-users-mouse-cursor" target="_blank" rel="noopener noreferrer">Anthropic publicly releases AI tool that can take over the user’s mouse cursor</a></li>
+<li><a href="https://vercel.com/blog/how-vercel-adopted-microfrontends" target="_blank" rel="noopener noreferrer">How Vercel adopted microfrontends</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/all-who-accomplised-great-things#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://arstechnica.com/gadgets/2024/10/212-million-contract-will-finally-get-san-francisco-trains-off-floppy-disks/" target="_blank" rel="noopener noreferrer">San Francisco to pay $212 million to end reliance on 5.25-inch floppy disks</a></li>
+<li><a href="https://futurism.com/neoscope/first-ovarian-cancer-vaccine" target="_blank" rel="noopener noreferrer">Groundbreaking Ovarian Cancer Vaccine at an "Exciting" Moment, Lead Scientist Says</a></li>
+</ul>
+<hr>
+<p>Have a great week!</p>
+<hr>
+<p>Issue #15</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience and the passion to reach for the stars to change the world. - Harriet Tubman]]></title>
+            <link>https://github.com/taco-royale/blog/article-14-every-great-dream-begins-with-a-dreamer</link>
+            <guid>https://github.com/taco-royale/blog/article-14-every-great-dream-begins-with-a-dreamer</guid>
+            <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>I hope you're all doing well. We've all been working hard recently, don't forget to take some time for yourself, go for a walk and eat good food. Life is for enjoying!</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/article-14-every-great-dream-begins-with-a-dreamer#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://brianjenney.medium.com/3-lessons-from-the-smartest-developers-ive-worked-with-5b233f51fc15" target="_blank" rel="noopener noreferrer">3 Lessons from the Smartest Developers I’ve Worked With</a></li>
+<li><a href="https://www.github-profile-generator.in/" target="_blank" rel="noopener noreferrer">Github Profile Generator</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/article-14-every-great-dream-begins-with-a-dreamer#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/" target="_blank" rel="noopener noreferrer">How Do Merging Supermassive Black Holes Pass the Final Parsec?</a></li>
+<li><a href="https://www.quantamagazine.org/mathematicians-discover-new-shapes-to-solve-decades-old-geometry-problem-20240920/" target="_blank" rel="noopener noreferrer">Mathematicians Discover New Shapes to Solve Decades-Old Geometry Problem</a></li>
+</ul>
+<hr>
+<p>Have a great week!</p>
+<hr>
+<p>Issue #14</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times. - Bruce Lee]]></title>
+            <link>https://github.com/taco-royale/blog/I-fear-not-the-man-who-has-practiced-10000-kicks</link>
+            <guid>https://github.com/taco-royale/blog/I-fear-not-the-man-who-has-practiced-10000-kicks</guid>
+            <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>Great work on the Google ads release. We can see the finish line of phase 1. Hopefully, we can get it out to vSplash next week and see how it all goes.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/I-fear-not-the-man-who-has-practiced-10000-kicks#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://tenno.app/" target="_blank" rel="noopener noreferrer">A live editable Markdown editor that lets you add cells like Excel!</a></li>
+<li><a href="https://developer.mozilla.org/en-US/blog/fix-javascript-performance/" target="_blank" rel="noopener noreferrer">Fixing your website's JavaScript performance</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/I-fear-not-the-man-who-has-practiced-10000-kicks#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/" target="_blank" rel="noopener noreferrer">A Photo of the Moon</a></li>
+<li><a href="https://www.empirical.health/blog/apple-watch-blood-pressure/" target="_blank" rel="noopener noreferrer">Can Apple Watch measure blood pressure? Not yet—but here's how the science would work.</a></li>
+<li><a href="https://www.astronomy.com/science/ceres-an-ocean-world-in-the-asteroid-belt/" target="_blank" rel="noopener noreferrer">Ceres: An ocean world in the asteroid belt</a></li>
+</ul>
+<hr>
+<p>Have a great week!</p>
+<hr>
+<p>Issue #13</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Happiness is not something ready made. It comes from your own actions. - Dalai Lama]]></title>
+            <link>https://github.com/taco-royale/blog/Happiness-is-not-something-ready-made</link>
+            <guid>https://github.com/taco-royale/blog/Happiness-is-not-something-ready-made</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>I hope you've all been having a good week. The mini-hackathon has been a cool experience and I don't know about you but I enjoyed having a break from the normal grind and working on something different. A lot of pairing and learning has been super cool.
+What are your thoughts on it? I'd love to know.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/Happiness-is-not-something-ready-made#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://learnxinyminutes.com/" target="_blank" rel="noopener noreferrer">Take a whirlwind tour of your next favorite language.</a></li>
+<li><a href="https://blog.bytebytego.com/p/the-trillion-message-kafka-setup" target="_blank" rel="noopener noreferrer">The Trillion Message Kafka Setup at Walmart</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/Happiness-is-not-something-ready-made#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://tillcarlos.com/install-docmost/" target="_blank" rel="noopener noreferrer">Install Docmost - Open Source Notion Clone</a></li>
+<li><a href="https://medium.com/@mirijam.missbichler/why-japanese-websites-look-so-different-2c7273e8be1e" target="_blank" rel="noopener noreferrer">Why Japanese Websites Look So Different</a></li>
+</ul>
+<hr>
+<p>Not much new so go and enjoy your week. It is nearly the holidays!</p>
+<hr>
+<p>Issue #12</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[If you make your goals a priority, you will make the time - Unknown]]></title>
+            <link>https://github.com/taco-royale/blog/make-goals-priority</link>
+            <guid>https://github.com/taco-royale/blog/make-goals-priority</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>Another new sprint - this time back to the original crew.
+Exciting to see all of the Google Ads work come together. Let's push on and get our customer's websites out to everyone.
+I don't know about you but the call in the Q3 All Hands meeting with one of our customers was really useful. Hopefully, we will see more of those in the future.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/make-goals-priority#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://sdtools.org/" target="_blank" rel="noopener noreferrer">Stable Diffusion Tools</a></li>
+<li><a href="https://ortutay.substack.com/p/the-most-accurate-and-cheapest-ai" target="_blank" rel="noopener noreferrer">The most accurate and cheapest AI for scraping</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/make-goals-priority#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon" target="_blank" rel="noopener noreferrer">The Quest to Build a Telecope on the Moon</a></li>
+<li><a href="https://nautil.us/the-origin-of-the-asteroid-that-killed-the-dinosaurs-889220/" target="_blank" rel="noopener noreferrer">The Origin of the Asteroid That Killed the Dinosaurs</a></li>
+</ul>
+<hr>
+<p>That's it for now! Have a great week.</p>
+<hr>
+<p>Issue #11</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Today I will do what others won’t, so tomorrow I can accomplish what others can’t. - Jerry Rice]]></title>
+            <link>https://github.com/taco-royale/blog/today-I-will-do-what-others-wont</link>
+            <guid>https://github.com/taco-royale/blog/today-I-will-do-what-others-wont</guid>
+            <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>I hope you're having a good week. It's great to have some new members join us. The work they've been doing on removing thunder has been exceptional and the handoff was seamless - great job guys.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/today-I-will-do-what-others-wont#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://www.warp.dev/" target="_blank" rel="noopener noreferrer">A new type of terminal</a></li>
+<li><a href="https://sequel.sh/" target="_blank" rel="noopener noreferrer">Query your database using natural language. No need to write SQL queries</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/today-I-will-do-what-others-wont#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://www.modernrealty.io/" target="_blank" rel="noopener noreferrer">AI Realtor</a></li>
+<li><a href="https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/" target="_blank" rel="noopener noreferrer">Hacker plants false memories in ChatGPT to steal user data in perpetuity</a></li>
+</ul>
+<hr>
+<p>I don't really have much else to report. Keep the hard work going and I will keep trying to find new tools to help us out, especially for Coffee Hour :-)</p>
+<hr>
+<p>Issue #10</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The start is what stops most people. - Don Shula]]></title>
+            <link>https://github.com/taco-royale/blog/start-is-what-stops-most-people</link>
+            <guid>https://github.com/taco-royale/blog/start-is-what-stops-most-people</guid>
+            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>Exciting week ahead working with the tiger team. I'm looking forward to seeing some collaboration and knowledge share with these guys. Let's go!!!</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/start-is-what-stops-most-people#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://justadudewhohacks.github.io/face-api.js/docs/index.html" target="_blank" rel="noopener noreferrer">JavaScript API for face detection and face recognition in the browser implemented on top of the tensorflow.js core API</a></li>
+<li><a href="https://localxpose.io/" target="_blank" rel="noopener noreferrer">LocalXpose is a reverse proxy that enables you to expose your localhost to the internet</a></li>
+<li><a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreferrer">LazyGit</a></li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/start-is-what-stops-most-people#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://www.nature.com/articles/d41586-024-02939-9" target="_blank" rel="noopener noreferrer">NASA okays mission to search for life on Jupiter’s moon Europa</a></li>
+<li><a href="https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-find-supermassive-black-hole-duo/" target="_blank" rel="noopener noreferrer">NASA’s Hubble, Chandra Find Supermassive Black Hole Duo</a></li>
+<li><a href="https://oceanographicmagazine.com/winners-gallery/?winners_category=human-connection" target="_blank" rel="noopener noreferrer">Ocean Photographers of the Year Winners Gallery</a></li>
+</ul>
+<hr>
+<p>That's it for now! Have a great week.</p>
+<hr>
+<p>Issue #9</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[We all have dreams. But in order to make dreams come into reality, it takes an awful lot of determination, dedication, self-discipline, and effort. - Jesse Owens]]></title>
+            <link>https://github.com/taco-royale/blog/article-8-do-great-things</link>
+            <guid>https://github.com/taco-royale/blog/article-8-do-great-things</guid>
+            <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>This week has been a tough one. Working on a workflow in AWS, I corrupted all of the test data we had in one DEV account - the only account that everyone was using for testing. A lot of hours have been spent trying to revert the problems to no avail. Maybe there's something there that I need to focus on.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/article-8-do-great-things#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://zen-browser.app/" target="_blank" rel="noopener noreferrer">Open source browser</a></li>
+<li><a href="https://www.shell.how/" target="_blank" rel="noopener noreferrer">Shell.how</a></li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/article-8-do-great-things#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://www.appflowy.io/" target="_blank" rel="noopener noreferrer">Free note taking app</a></li>
+<li><a href="https://youtu.be/oFtjKbXKqbg?si=hb7CUr_h8RO3Ah1m" target="_blank" rel="noopener noreferrer">Lex Fridman X Pieter Levels - Programming, Viral AI Startups, and Digital Nomad Life | Lex Fridman Podcast</a></li>
+<li><a href="https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/#:~:text=How%20Our%20Longest%20Nerve%20Orchestrates%20the%20Mind%2DBody%20Connection,-By%20R.&amp;text=Like%20a%20highway%20system%2C%20the,as%20mood%2C%20pleasure%20and%20fear." target="_blank" rel="noopener noreferrer">How Our Longest Nerve Orchestrates the Mind-Body Connection</a></li>
+</ul>
+<hr>
+<p>That's it for now! Have a great week.</p>
+<hr>
+<p>Issue #8</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[If you cannot do great things, do small things in a great way. - Napoleon Hill]]></title>
+            <link>https://github.com/taco-royale/blog/article-7-do-great-things</link>
+            <guid>https://github.com/taco-royale/blog/article-7-do-great-things</guid>
+            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>I hope everyone is having a good week. We just got back from Colorado - the scenery was unreal but the wifi left a lot to be desired. We went fishing, down 1000ft into an old mine, looking around some caves and checked out some old Indian dwellings. It was amazing and made me realize how important having time to explore new places really is. If you get a chance, go and do something soon.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/article-7-do-great-things#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://medium.com/@thetateman/im-tired-of-fixing-customers-ai-generated-code-94816bde4ceb" target="_blank" rel="noopener noreferrer">I’m Tired of Fixing Customers’ AI Generated Code</a></li>
+<li><a href="https://developer.chrome.com/blog/scroll-snap-events?hl=en" target="_blank" rel="noopener noreferrer">Google Chrome's Scroll Snap Events</a></li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/article-7-do-great-things#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://www.quantamagazine.org/mathematicians-prove-hawking-wrong-about-extremal-black-holes-20240821/" target="_blank" rel="noopener noreferrer">Mathematicians Prove Hawking Wrong About the Most Extreme Black Holes</a></li>
+<li><a href="https://googlemapsmania.blogspot.com/2024/08/how-world-powers-itself.html" target="_blank" rel="noopener noreferrer">How the World Powers Itself</a></li>
+<li><a href="https://www.esquire.com/food-drink/drinks/recipes/a27481/bloody-mary-origins-recipe/" target="_blank" rel="noopener noreferrer">The Secret Origins of the Bloody Mary</a></li>
+</ul>
+<hr>
+<p>That's it for now! Have a great week. Please help me write better posts :-)</p>
+<hr>
+<p>Issue #7</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. - Norman Vincent Peale]]></title>
+            <link>https://github.com/taco-royale/blog/believe-in-yourself</link>
+            <guid>https://github.com/taco-royale/blog/believe-in-yourself</guid>
+            <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>I hope everyone is having a good week and enjoyed Wellness Day. I know I did. A few days in California was nice. The journey back wasn’t - breaking down in the middle of the desert is something you never want to happen to you! Anyway, we got it sorted and got back safely.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/believe-in-yourself#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://samcurry.net/points-com" target="_blank" rel="noopener noreferrer">Leaked Secrets and Unlimited Miles: Hacking the Largest Airline and Hotel Rewards Platform</a></li>
+<li><a href="https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253" target="_blank" rel="noopener noreferrer">8 Frontend Tools to Become a Better Developer</a></li>
+<li><a href="https://www.freecodecamp.org/news/learn-linux-for-beginners-book-basic-to-advanced/" target="_blank" rel="noopener noreferrer">Learn Linux for Beginners: From Basics to Advanced Techniques [Full Book]</a></li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/believe-in-yourself#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://ytch.xyz/" target="_blank" rel="noopener noreferrer">If YouTube had channels</a></li>
+<li><a href="https://www.bristol.ac.uk/news/2024/july/butterflies-static-electricity.html" target="_blank" rel="noopener noreferrer">Butterflies accumulate enough static electricity to attract pollen without contact</a></li>
+</ul>
+<hr>
+<p>That's it for now! Have a great week. Please help me write better posts :-)</p>
+<hr>
+<p>Issue #6</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Everything you’ve ever wanted is sitting on the other side of fear. - George Addair]]></title>
+            <link>https://github.com/taco-royale/blog/other-side-of-fear</link>
+            <guid>https://github.com/taco-royale/blog/other-side-of-fear</guid>
+            <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>The week is going well. Keep it up! We have a day off next Friday so make the most of it.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/other-side-of-fear#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://education-static.apple.com/coding-club-kit/appworkbook.key" target="_blank" rel="noopener noreferrer">How Apple says you should design an app</a></li>
+<li><a href="https://dgerrells.com/blog/how-not-to-use-box-shadows" target="_blank" rel="noopener noreferrer">So you think you know box shadows?</a></li>
+<li><a href="https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html" target="_blank" rel="noopener noreferrer">OpenAI co-founder John Schulman says he will leave and join rival Anthropic</a></li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/other-side-of-fear#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://scitechdaily.com/mayo-clinic-ai-uncovers-hidden-brain-patterns-to-spot-early-dementia/" target="_blank" rel="noopener noreferrer">Mayo Clinic AI Uncovers Hidden Brain Patterns to Spot Early Dementia</a></li>
+<li><a href="https://www.reuters.com/business/media-telecom/paris-olympics-broadcasters-diverge-ai-approach-2024-07-26" target="_blank" rel="noopener noreferrer">Paris Olympics broadcasters diverge on AI approach</a></li>
+</ul>
+<hr>
+<p>That's it for now! Have a great week. One day I’ll write more interesting blog posts :-)</p>
+<hr>
+<p>Issue #5</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[What you do today can improve all your tomorrows - Ralph Marston]]></title>
+            <link>https://github.com/taco-royale/blog/improve-tomorrows</link>
+            <guid>https://github.com/taco-royale/blog/improve-tomorrows</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey team!]]></description>
+            <content:encoded><![CDATA[<p>Hey team!</p>
+<p>I just wanted to take a moment to give a huge shoutout to everyone for the incredible work we’ve been doing. We’ve tackled some tough problems, launched some fantastic features, and really nailed it with our recent projects. It’s amazing to see how our combined efforts have paid off and pushed us forward. Your hard work and creativity are what make all the difference, so let’s keep that momentum going and continue to make great things happen!</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="useful-gd-links">Useful GD Links<a href="https://github.com/taco-royale/blog/improve-tomorrows#useful-gd-links" class="hash-link" aria-label="Direct link to Useful GD Links" title="Direct link to Useful GD Links">​</a></h2>
+<ul>
+<li><a href="https://www.godaddy.com/resources/news/from-text-to-transformers-how-llms-are-enhancing-godaddys-cms-experience" target="_blank" rel="noopener noreferrer">From Text to Transformers: How LLMs Are Enhancing GoDaddy’s CMS Experience</a></li>
+<li><a href="https://pcp-docs.int.gdcorp.tools/" target="_blank" rel="noopener noreferrer">Developer Experience Docs</a></li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="web-links-of-the-week">Web links of the week<a href="https://github.com/taco-royale/blog/improve-tomorrows#web-links-of-the-week" class="hash-link" aria-label="Direct link to Web links of the week" title="Direct link to Web links of the week">​</a></h2>
+<ul>
+<li><a href="https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github" target="_blank" rel="noopener noreferrer">Anyone can Access Deleted and Private Repository Data on GitHub</a></li>
+<li><a href="https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/" target="_blank" rel="noopener noreferrer">AI achieves silver-medal standard solving International Mathematical Olympiad problems</a></li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cool-things-from-around-the-internet">Cool things from around the internet<a href="https://github.com/taco-royale/blog/improve-tomorrows#cool-things-from-around-the-internet" class="hash-link" aria-label="Direct link to Cool things from around the internet" title="Direct link to Cool things from around the internet">​</a></h2>
+<ul>
+<li><a href="https://haystackeditor.com/" target="_blank" rel="noopener noreferrer">Haystack Editor</a></li>
+<li><a href="https://github.com/veggiedefender/open-and-shut?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=you-are-only-as-beautiful-as-the-many-beautiful" target="_blank" rel="noopener noreferrer">Type in Morse code by repeatedly slamming your laptop shut</a></li>
+<li><a href="https://arstechnica.com/space/2024/07/no-nasa-hasnt-found-life-on-mars-yet-but-the-latest-discovery-is-intriguing/" target="_blank" rel="noopener noreferrer">No, NASA hasn’t found life on Mars yet, but the latest discovery is intriguing</a></li>
+</ul>
+<hr>
+<p><strong>That's it for now! Have a great week. One day I’ll write more interesting blog posts :-)</strong></p>
+<hr>
+<p>Issue #4</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

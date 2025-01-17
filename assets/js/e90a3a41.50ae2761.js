@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktims_brag_doc=self.webpackChunktims_brag_doc||[]).push([[6669],{1387:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/taco-royale/blog/page/2","page":2,"postsPerPage":10,"totalPages":3,"totalCount":23,"previousPage":"/taco-royale/blog","nextPage":"/taco-royale/blog/page/3","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

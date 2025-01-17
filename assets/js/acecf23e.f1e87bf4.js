@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktims_brag_doc=self.webpackChunktims_brag_doc||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/taco-royale/blog","blogTitle":"Blog","authorsListPath":"/taco-royale/blog/authors"}')}}]);
