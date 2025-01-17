@@ -24,7 +24,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'tparsons-godaddy', // Usually your GitHub org/user name.
   projectName: 'taco-royale', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
