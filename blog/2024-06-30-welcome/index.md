@@ -2,7 +2,7 @@
 slug: welcome
 title: Welcome
 authors: [tparsons]
-tags: [facebook, hello, docusaurus]
+tags: [hello]
 ---
 Hey friends!
 

@@ -2,7 +2,7 @@
 - [x] Photo Search end of life ticket - Shawn's messages
 
 ## To Do
-- [ ] Keep checking Block due diligence tickets to see where they're at
+- [ ] Keep checking Blocked due diligence tickets to see where they're at
 - [ ] Look into photoshoots asset api endoints
 - [ ] Need to check Photoshoot alert from Friday - reran and still created alert. Account showing in vNext
 
