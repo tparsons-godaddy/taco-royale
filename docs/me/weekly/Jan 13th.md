@@ -16,4 +16,4 @@
 - [MSP Photoshoot Jira Ticket Not Created](https://godaddy-corp.atlassian.net/browse/WAFFLE-3170) - Worked with Anthony to fix
 
 ### <ins>Thur Jan 16</ins>
-- 
+- EOL Photo search
