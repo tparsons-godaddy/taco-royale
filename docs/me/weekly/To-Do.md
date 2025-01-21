@@ -1,8 +1,8 @@
 ## In Progress
-- [x] Photo Search end of life ticket - Shawn's messages
-- [x] [Read through Openstack Docs](https://docs.openstack.int.gd3p.tools/)
+- [x] Photo Search end of life ticket - [Read through Openstack Docs](https://docs.openstack.int.gd3p.tools/)
 
 ## To Do
+- [ ] Check in with Mohammed on unpointed ticket question
 - [ ] Keep checking Blocked due diligence tickets to see where they're at
 - [ ] Look into photoshoots asset api endoints
 - [ ] Need to check Photoshoot alert from Friday - reran and still created alert. Account showing in vNext
