@@ -1,5 +1,5 @@
 ## In Progress
-- [x] Photo Search end of life ticket - [Read through Openstack Docs](https://docs.openstack.int.gd3p.tools/)
+- [x] Photo Search end of life ticket - [Read through Openstack Docs](https://docs.openstack.int.gd3p.tools/) - waiting on url ownership transfer
 
 ## To Do
 - [ ] Check in with Mohammed on unpointed ticket question
