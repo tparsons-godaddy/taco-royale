@@ -21,6 +21,7 @@ I hope you're all doing well and enjoying the new year. It's certainly been an i
 - [Time reveals several excellent #geoweirdness examples](https://en.osm.town/@opencage/112812709046026868)
 - [A story of herding effects in beer reviews](https://dlab.epfl.ch/2017-08-30-of-sheep-and-beer/)
 
+
 Have a great week.
 
 Issue #24
