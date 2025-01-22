@@ -1,9 +1,9 @@
 ## In Progress
-- [x] Photo Search end of life ticket - [Read through Openstack Docs](https://docs.openstack.int.gd3p.tools/) - waiting on url ownership transfer
+- [ ] Keep checking Blocked due diligence tickets to see where they're at
 
 ## To Do
-- [ ] Check in with Mohammed on unpointed ticket question
-- [ ] Keep checking Blocked due diligence tickets to see where they're at
+- [x] Photo Search end of life ticket - [Read through Openstack Docs](https://docs.openstack.int.gd3p.tools/) - waiting on url ownership transfer
+- [ ] Delete posts from ticket for Paxton in next sprint
 - [ ] Look into photoshoots asset api endoints
 - [ ] Need to check Photoshoot alert from Friday - reran and still created alert. Account showing in vNext
 
@@ -11,6 +11,7 @@
 - [ ] How can we set up a server to make api calls to spaq quicker? AWS?
 
 ## Completed
+- [x] Check in with Mohammed on unpointed ticket question - Mohammed asked some quesitons for Matt
 - [x] [TACOROYALE-1293](https://godaddy-corp.atlassian.net/browse/TACOROYALE-1293) - Dify Request Hand of completed
 - [x] Dify Header Hand off doc
 - [x] Create ticket for noise in alerts 'Failed to create ad creative'

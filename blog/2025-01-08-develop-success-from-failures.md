@@ -15,17 +15,17 @@ Starting this week, I am adding a new section with the most interesting engineer
 
 ---
 
-**Web Articles of the Week**
+## Web Articles of the Week
 
 - [How React's Render, Effects and Refs work under the hood](https://tigerabrodi.blog/how-reacts-render-effects-and-refs-work-under-the-hood?utm_source=tldrwebdev)
 - [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en/)
 
-**Interesting things from around the internet**
+## Interesting things from around the internet
 
 - [Microsoft's outrageous Google website imitation branded a 'new low'](https://mashable.com/article/nasa-parker-solar-probe-sun-breaks-record-speed-closest-approach)
 - [Man told he can't recover £598m of Bitcoin from tip](https://www.bbc.com/news/articles/cj0r0dvgpy0o)
 
-**Engineering blog post of the week**
+## Engineering blog post of the week
 
 - [Case Study: Building Shop with Remix](https://remix.run/blog/shop-case-study)
 
