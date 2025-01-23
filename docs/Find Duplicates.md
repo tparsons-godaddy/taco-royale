@@ -3,11 +3,11 @@
 - Search for accountId (from execution input)
 - Select `execution_arn` from Popular Fields on left
 
-![image.png](../static/img/docs/apm-logs.png)
+![apm-logs.png](../static/img/docs/apm-logs.png)
 
 - Filter out execution by hovering an pressing `-` button
 
-![image.png](../static/img/docs/apm-logs2.png)
+![apm-logs2.png](../static/img/docs/apm-logs2.png)
 
 - Check arns against the list of arns in AWS. If present in AWS check if Failed or Succeeded. Press `-` in kibana logs to remove from list. Make sure there are no running ads.
 - Pause ad and then rerun execution.

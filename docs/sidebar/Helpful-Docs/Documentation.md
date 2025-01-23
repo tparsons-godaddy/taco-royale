@@ -13,3 +13,6 @@
 ### GoDaddy Docs
 - [CICD Documentaion](https://cicd.docs.im.int.godaddy.com/)
 - [OpenStack Documentation](https://docs.openstack.int.gd3p.tools/)
+
+### Value Achieved
+![Glossary](../../../static/img/docs/glossary-terms.jpg)
