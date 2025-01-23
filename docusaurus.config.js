@@ -97,11 +97,6 @@ const config = {
             sidebar: 'learningSidebar',
           },
           {
-            to: 'docs/sidebar/Taco Royale/Documentation',
-            label: 'Taco Royale',
-            sidebar: 'projectsSidebar',
-          } ,
-          {
             to: 'blog',
             label: 'Blog',
           },         
