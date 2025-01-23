@@ -14,7 +14,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-      <img src="img/Logo.jpg" alt="Taco Royale Doc" style={{height: 70}}/>
+      <img src="img/Logo.jpg" alt="Taco Royale Doc" style={{height: 40}}/>
         <Heading as="h1" className="hero__title text--center">
           {siteConfig.title}
         </Heading>

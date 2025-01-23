@@ -7,7 +7,7 @@ tags: []
 
 Hi team!
 
-I hope you're all doing well and enjoying the new year. It's certainly been an interesting one on my end but I don't want to bore you with that. Here's some interesting itesm from this week.
+I hope you're all doing well and enjoying the new year. It's certainly been an interesting one on my end but I don't want to bore you with that. Here's some interesting items from this week.
 <!-- truncate -->
 
 ## Web Articles of the Week
