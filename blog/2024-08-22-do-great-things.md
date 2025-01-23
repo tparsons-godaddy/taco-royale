@@ -1,6 +1,6 @@
 ---
 title: If you cannot do great things, do small things in a great way. - Napoleon Hill
-slug: article-7-do-great-things
+slug: do-great-things
 authors: tparsons
 date: 'Aug 22, 2024'
 ---

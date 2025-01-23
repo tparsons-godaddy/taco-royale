@@ -1,6 +1,6 @@
 ---
 title: We all have dreams. But in order to make dreams come into reality, it takes an awful lot of determination, dedication, self-discipline, and effort. - Jesse Owens
-slug: article-8-do-great-things
+slug: we-all-have-dreams
 authors: tparsons
 tags: []
 ---
