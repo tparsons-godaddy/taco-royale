@@ -81,10 +81,10 @@ const config = {
           src: 'img/Logo.jpg',
         },
         items: [
-          {
-              to: 'docs/intro',
-              label: 'Intro',
-            },
+          // {
+          //     to: 'docs/intro',
+          //     label: 'Intro',
+          //   },
             {
             to: 'docs/sidebar/helpful-docs/CLI',
             label: 'Helpful Docs',
