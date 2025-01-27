@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Tims Taco Royale Doc',
-  tagline: 'Documentation for Taco Royale and myself',
+  title: 'Tim\'s Taco Royale Doc',
+  tagline: 'Documentation to help me find things...hopefully',
   favicon: 'img/Logo.jpg',
 
   // Set the production url of your site here
