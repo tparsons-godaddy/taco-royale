@@ -1,7 +1,3 @@
-### Latest
-- [ ] [Inside Bluesky’s Engineering Culture](https://newsletter.pragmaticengineer.com/p/bluesky-engineering-culture)
-- [ ] [Five years of React Native at Shopify](https://shopifyengineering.myshopify.com/blogs/engineering/five-years-of-react-native-at-shopify)
-
 ### Tech Stack Upgrades
 * [Airbnb: React Native at Airbnb](https://lnkd.in/dgdbxSw2)
 * [Pinterest: The Case Against Kotlin](https://lnkd.in/dN6G2YgU)
@@ -32,6 +28,8 @@
 * [Pinterest: How a one line change decreased our clone times by 99%](https://lnkd.in/dExJhSNx)
 * [Paypal frontend articles](https://www.notion.so/11-Frontend-Articles-from-PayPal-74075c4d0d804aaea9505099dda609ba?pvs=21)
 * [Frontend Build Systems](https://sunsetglow.net/posts/frontend-build-systems.html)
+* [Inside Bluesky’s Engineering Culture](https://newsletter.pragmaticengineer.com/p/bluesky-engineering-culture)
+* [Five years of React Native at Shopify](https://shopifyengineering.myshopify.com/blogs/engineering/five-years-of-react-native-at-shopify)]
 
 ### Misc
 * https://review.firstround.com/

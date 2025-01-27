@@ -86,7 +86,7 @@ const config = {
           //     label: 'Intro',
           //   },
             {
-            to: 'docs/sidebar/helpful-docs/CLI',
+            to: 'docs/sidebar/Helpful%20Info/cli',
             label: 'Helpful Docs',
             sidebar: 'docsSidebar',
             collapsed: true,

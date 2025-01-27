@@ -1,7 +1,4 @@
 
-### TIL
-
-
 ### Software
 * [DevHints](https://devhints.io/)
 * [JavaScript Visualized](https://dev.to/lydiahallie/series/3341)
@@ -13,7 +10,7 @@
 * [Copilot for technical design](https://www.eraser.io/ai)
 * [Screen recordings](https://cap.so/)
 
-### Design Inspriration
+### Design Inspiration
 * https://mobbin.com/
 * [screenlane.com](https://screenlane.com/)
 * [handheld.design](https://handheld.design/)
