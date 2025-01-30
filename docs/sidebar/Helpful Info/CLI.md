@@ -7,7 +7,7 @@
 - View all files in Home (~) folder - `ls -la ~`
 
 ### NPM Setup
-- [npmrc setup](https://godaddy-corp.atlassian.net/wiki/spaces/MWCENG/pages/53150095/Javascript+Setup) - Use jFrog credentials
+- [npmrc setup](https://godaddy-corp.atlassian.net/wiki/x/jspD1w) - Use jFrog credentials
 - [Change node version](https://www.bairesdev.com/blog/change-node-version/)
 <details>
 <summary>View npmrc file</summary>
