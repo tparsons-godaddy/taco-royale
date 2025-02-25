@@ -7,7 +7,7 @@ tags: []
 
 Hi team!
 
-February is here. The hand-offs are nearly completed and ELT are gathering to come up with the plans. Excited to hear what was discussed and the exciting things going on this year. Keep your eyes open this weekend for GoDaddy's first Superbowl ad in years.
+We're at the middle of the month already. Hopefully, everyone is settling into their new teams and getting to used to any new apps you may have.
 <!-- truncate -->
 
 ## Web Articles/Videos of the Week
