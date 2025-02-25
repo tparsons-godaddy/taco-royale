@@ -18,7 +18,7 @@ February is here. The hand-offs are nearly completed and ELT are gathering to co
 ## Interesting things from around the internet
 - [Meta’s Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights)
 - [White Hat Hackers Expose Iridium Satellite Security Flaws](https://spectrum.ieee.org/iridium-satellite)
-- -[An interactive guide to color & contrast](https://colorandcontrast.com/)
+- [An interactive guide to color & contrast](https://colorandcontrast.com/)
 
 
 Issue #28
