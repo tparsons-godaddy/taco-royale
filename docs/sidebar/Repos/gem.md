@@ -1,0 +1,2 @@
+- [GEM GUI](https://gem.dev-godaddy.com/content_hub_admin/service_requests)
+- [GEM Swagger](https://gem.dev-godaddy.com/api/v3/docs#!/themes)
