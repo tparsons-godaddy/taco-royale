@@ -13,5 +13,5 @@
 - [DIFY Shared Hand Off Doc](https://godaddy-corp.atlassian.net/wiki/spaces/MKTG/pages/3703835412/DIFY+Approvals+dify-shared+App+Hand-Off+2025)
 - [Vertical Update Hand Off Doc](https://godaddy-corp.atlassian.net/wiki/spaces/MKTG/pages/3705914508/Vertical+Update+Workflow+App+Hand-Off+2025)
 
-### Common Page
+### Common Pages
 - [GEM GUI](https://gem.dev-godaddy.com/content_hub_admin/service_requests)
